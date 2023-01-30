@@ -1,0 +1,83 @@
+	body {
+		border-top: 50px solid #00ef04;
+		margin-top: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+		background-image: url("world.jpg");
+		Background-position: center -315px;
+		background-size: 100% auto;
+		background-repeat: no-repeat;
+}
+	h1 {
+		color: white;
+		font-family: new-spirit, serif;
+		font-style: normal;
+		text-align: center;
+		font-size: 80px;
+		padding: 30px;
+    	display: block;
+   	 	width: 100%;
+    	height: 350px;
+    	background-color: #1044ff;
+    	margin-left: 0px;
+    	margin-right: 0px;
+    	margin-top: 0px;
+}
+	p {
+		color: white;
+		text-align: left;
+		margin: auto;
+		position: relative;
+		bottom: 335px;
+		font-size: 25px;
+		margin-left: 330px;
+		margin-right: 300px;
+		font-family: franklin-gothic-atf, sans-serif;
+}
+	h3 {
+		color: white;
+		font-family: franklin-gothic-atf, sans-serif;
+		font-size: 15px;
+		position: relative;
+		bottom: 315px;
+		margin-left: 330px;
+		margin-right: 300px;
+	}
+	a {
+		display: block;
+		color: #00ef04;
+		font-size: 40px;
+		text-align: right;
+	}
+	.box { 
+ 		 color: #00ef04;
+  		background-color: black;
+  		font-size: 28px;
+  		position: absolute;
+  		left: 1050px;
+  		bottom: 150px;
+  		border: solid #00ef04;
+  		border-width: 5px;
+  		width: 230px;
+  		height: 27px;
+  		border-radius: 10px;
+  		text-align: center;
+  		padding: 33px;
+  		font-family: franklin-gothic-atf, sans-serif;
+}
+	.box1 {
+ 		 color: #00ef04;
+  		background-color: black;
+  		font-size: 28px;
+  		position: absolute;
+  		left: 1050px;
+  		bottom: 30px;
+  		border: solid #00ef04;
+  		border-width: 5px;
+  		width: 230px;
+  		height: 27px;
+  		border-radius: 10px;
+  		text-align: center;
+  		padding: 33px;
+  		font-family: franklin-gothic-atf, sans-serif;
+}
